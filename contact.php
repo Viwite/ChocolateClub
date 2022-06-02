@@ -17,7 +17,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="main">
-    <div>Forside</div>
+    <div>Kontakt</div>
 </div>
 
 <?php include "includes/footer.php"; ?>
