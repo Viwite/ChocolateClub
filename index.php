@@ -16,8 +16,26 @@
 </head>
 <?php include "includes/navigation.php"; ?>
 
-<div class="main">
-    <div>Forside</div>
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item">
+            <img src="images/væg.jpg" class="d-block w-100" alt="væg med chokolade">
+        </div>
+        <div class="carousel-item active">
+            <img src="images/kaninmorreveonkel.png" class="d-block w-100" alt="forside">
+        </div>
+        <div class="carousel-item">
+            <img src="images/smagsprøver%20hellyeah.jpg" class="d-block w-100" alt="smagsproever">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
 </div>
 
 <?php include "includes/footer.php"; ?>
