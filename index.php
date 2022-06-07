@@ -59,7 +59,7 @@
     <div class="row">
         <div class="col">
             <div class="">
-                <img src="images/choko%20balls.png" class="small-image mx-auto" alt="chokolade kugler"
+                <img src="images/chokoglass.png" class="small-image mx-auto" alt="chokolade i glas"
             </div>
         </div>
         <div class="col">
@@ -69,23 +69,26 @@
         </div>
         <div class="col">
             <div class="">
-                <img src="images/chokofirkant.png" class="small-image mx-auto" alt="chokolade bidder"
-            </div>
-        </div><div class="col">
-            <div class="">
-                <img src="images/chokofirkantkannoet.png" class="small-image mx-auto" alt="chokolade bidder"
-            </div>
-        </div><div class="col">
-            <div class="">
-                <img src="images/chokoglass.png" class="small-image mx-auto" alt="chokolade bidder"
-            </div>
-        </div><div class="col">
-            <div class="">
-                <img src="images/chokosalg2%20v2.png" class="small-image mx-auto" alt="chokolade bidder"
+                <img src="images/choko%20balls.png" class="small-image mx-auto" alt="chokolade kugler"
             </div>
         </div>
+        <div class="col">
+            <div class="">
+                <img src="images/chokofirkant.png" class="small-image mx-auto" alt="chokolade i firkantet æske"
+            </div>
+        </div>
+        <div class="col">
+            <div class="">
+                <img src="images/chokofirkantkannoet.png" class="small-image mx-auto" alt=" en til chokolade i firkantet æske"
+            </div>
+        </div>
+        <div class="col">
+            <div class="">
+                <img src="images/chokosalg2%20v2.png" class="small-image mx-auto" alt="chokolade salg"
+            </div>
+        </div>
+
     </div>
-</div>
 
 <?php include "includes/footer.php"; ?>
 <body>
