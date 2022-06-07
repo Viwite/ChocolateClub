@@ -38,6 +38,14 @@
     </button>
 </div>
 
+<br><br>
+
+<div class="row">
+    <div class="col-2">
+
+    </div>
+</div>
+
 <?php include "includes/footer.php"; ?>
 <body>
 

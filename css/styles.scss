@@ -35,3 +35,14 @@ img {
 .navbar {
 	background-color: #fcdfdf;
 }
+
+.nav-link {
+	color: red;
+	font-family: "Arial Rounded MT", sans-serif ;
+}
+.logo{
+	position: fixed;
+	left: 20px;
+	top: 20px;
+	z-index: 99999999999;
+}
