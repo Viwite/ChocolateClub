@@ -57,7 +57,15 @@
 
 <br><br>
 
-<div class="container-fluid"></div>
+<div class="container-fluid bg-lavendel">
+    <div class="row">
+        <div class="col">
+            <div class="container">
+                <img src="images/"
+            </div>
+        </div>
+    </div>
+</div>
 
 <?php include "includes/footer.php"; ?>
 <body>
