@@ -1,13 +1,13 @@
 <nav class="navbar navbar-expand-lg">
 
     <div class="container-fluid">
-        <div class="logo"><a href="index.php"><img src="images/chocolate_club-01.png" style="max-width: 15%;"
+        <div class="logo navbar-brand"><a href="index.php"><img src="images/chocolate_club-01.png" style="max-width: 15%;"
                                                    alt="logo foto"></a></div>
-        <div style="width: 90%; margin-left: auto;">
+        <div style="width: 88%; margin-left: auto; text-align: right">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <i class="fa-solid fa-bars"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
