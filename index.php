@@ -55,13 +55,16 @@
     </button>
 </div>
 
-<br><br>
-
 <div class="container-fluid bg-lavendel">
     <div class="row">
         <div class="col">
             <div class="container">
-                <img src="images/"
+                <img src="images/choko%20balls.png" class="small-image" alt="chokolade kugler"
+            </div>
+        </div>
+        <div class="col">
+            <div class="container">
+                <img src="images/choko%20balls.png" class="small-image" alt="chokolade kugler"
             </div>
         </div>
     </div>
