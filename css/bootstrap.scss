@@ -9,6 +9,8 @@ $custom-colors: (
   "primary": #0d6efd, //Retter primary
   "minFarve": #ffff00, //Tilføjer minFarve
   "lavendel": #e4dced,
+  "lilla": #be87bc,
+
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 $theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");
