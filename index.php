@@ -94,18 +94,31 @@
     </div>
 </div>
 
+
 <div class="container-fluid bg-lilla">
 
     <div class="row">
-        <div class="col-4">
-            <div class="container">
-                <img src="images/"
+        <div class="col-6">
+            <div class="container pb-5">
+                <img src="images/chokofarm.png" alt="Avatar" class="image mt-5" style="width:100%">
+                <div class="middle">
+                    <h3 class="text text-creamtext bg-danger">Besøg vores butik til en familie oplevelse</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="container pb-5">
+                <img src="images/nicecream.png" alt="Avatar" class="image mt-5" style="width:100%">
+                <div class="middle">
+                    <h3 class="text text-creamtext bg-danger">Se hvor chokoladen kommer fra</h3>
+                </div>
             </div>
         </div>
     </div>
 
-
 </div>
+
+
 
 <?php include "includes/footer.php"; ?>
 <body>
