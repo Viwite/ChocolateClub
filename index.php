@@ -56,43 +56,52 @@
 </div>
 
 <div class="container-fluid bg-lavendel">
+
+    <h1 class="text-1" style="text-align: center; color: red; font-family: 'Arial Rounded MT Bold,sans-serif,">New</h1>
+
     <div class="row">
+
         <div class="col">
-            <div class="">
-                <img src="images/chokoglass.png" class="small-image mx-auto" alt="chokolade i glas"
+            <div class="small-image">
+                <img src="images/chokoglass.png" class="small-image mx-auto my-5" alt="chokolade i glas"
             </div>
         </div>
+
         <div class="col">
-            <div class="">
-                <img src="images/chokobidder.png" class="small-image mx-auto" alt="chokolade bidder"
+            <div class="small-image">
+                <img src="images/chokobidder.png" class="small-image mx-auto my-5" alt="chokolade bidder"
             </div>
         </div>
+
         <div class="col">
-            <div class="">
-                <img src="images/choko%20balls.png" class="small-image mx-auto" alt="chokolade kugler"
+            <div class="small-image">
+                <img src="images/choko%20balls.png" class="small-image mx-auto my-5" alt="chokolade kugler"
             </div>
         </div>
+
         <div class="col">
-            <div class="">
-                <img src="images/chokofirkant.png" class="small-image mx-auto" alt="chokolade i firkantet æske"
+            <div class="small-image">
+                <img src="images/chokofirkant.png" class="small-image mx-auto my-5" alt="chokolade i firkantet æske"
             </div>
         </div>
+
         <div class="col">
-            <div class="">
-                <img src="images/chokofirkantkannoet.png" class="small-image mx-auto" alt=" en til chokolade i firkantet æske"
+            <div class="small-image">
+                <img src="images/chokofirkantkannoet.png" class="small-image mx-auto my-5" alt=" en til chokolade i
+                firkantet æske"
             </div>
         </div>
+
         <div class="col">
-            <div class="">
-                <img src="images/chokosalg2%20v2.png" class="small-image mx-auto" alt="chokolade salg"
+            <div class="small-image">
+                <img src="images/chokosalg2%20v2.png" class="small-image mx-auto my-5" alt="chokolade salg"
             </div>
         </div>
 
     </div>
-
+</div>
 <?php include "includes/footer.php"; ?>
 <body>
-
 
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
