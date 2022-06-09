@@ -57,38 +57,37 @@
 
 <div class="container-fluid bg-lavendel">
 
-    <h1 class="text-1" style="text-align: center; color: red; font-family: 'Arial Rounded MT Bold,sans-serif,">New</h1>
-
+    <h1 class="text-1" style="text-align: center; color: red; font-family: 'Arial Rounded MT Bold, sans serif">New</h1>
     <div class="row">
-        <div class="col">
+        <div class="col-12 col-lg">
             <div class="">
-                <img src="images/chokoglass.png" class="small-image mx-auto my-5" alt="chokolade i glas"
+                <img src="images/chokoglass.png" class="small-image mx-auto my-5" alt="chokolade i glas">
             </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-lg">
             <div class="">
-                <img src="images/chokobidder.png" class="small-image mx-auto my-5" alt="chokolade bidder"
+                <img src="images/chokobidder.png" class="small-image mx-auto my-5" alt="chokolade bidder">
             </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-lg">
             <div class="">
-                <img src="images/choko%20balls.png" class="small-image mx-auto my-5" alt="chokolade kugler"
+                <img src="images/choko%20balls.png" class="small-image mx-auto my-5" alt="chokolade kugler">
             </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-lg">
             <div class="">
-                <img src="images/chokofirkant.png" class="small-image mx-auto my-5" alt="chokolade i firkantet æske"
+                <img src="images/chokofirkant.png" class="small-image mx-auto my-5" alt="chokolade i firkantet æske">
             </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-lg">
             <div class="">
                 <img src="images/chokofirkantkannoet.png" class="small-image mx-auto my-5" alt=" en til chokolade i
-                firkantet æske"
+                firkantet æske">
             </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-lg">
             <div class="">
-                <img src="images/chokosalg2%20v2.png" class="small-image mx-auto my-5" alt="chokolade salg"
+                <img src="images/chokosalg2%20v2.png" class="small-image mx-auto my-5" alt="chokolade salg">
             </div>
         </div>
     </div>
@@ -98,7 +97,7 @@
 <div class="container-fluid bg-lilla">
 
     <div class="row">
-        <div class="col-6">
+        <div class="col-lg-6">
             <div class="container pb-5">
                 <img src="images/chokofarm.png" alt="Avatar" class="image mt-5" style="width:100%">
                 <div class="middle">
@@ -106,9 +105,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-6">
+        <div class="col-lg-6">
             <div class="container pb-5">
-                <img src="images/nicecream.png" alt="Avatar" class="image mt-5" style="width:100%">
+                <img src="images/nicecream.png" alt="Avatar" class="image mt-5">
                 <div class="middle">
                     <h3 class="text text-creamtext bg-danger">Se hvor chokoladen kommer fra</h3>
                 </div>
@@ -117,8 +116,6 @@
     </div>
 
 </div>
-
-
 
 <?php include "includes/footer.php"; ?>
 <body>
