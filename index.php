@@ -40,7 +40,7 @@
             <img src="images/smagsprøver%20hellyeah.jpg" class="d-block w-100" alt="smagsprøver">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-danger">
-                    <h3>Byg selv indpakning</h3>
+                    <h2>Byg selv indpakning</h2>
                 </button>
             </div>
         </div>
@@ -100,16 +100,16 @@
         <div class="col-lg-6">
             <div class="container pb-5">
                 <img src="images/chokofarm.png" alt="Avatar" class="image mt-5" style="width:100%">
-                <div class="middle">
-                    <h3 class="text text-creamtext bg-danger">Besøg vores butik til en familie oplevelse</h3>
+                <div class="middle bg-danger link">
+                    <h3 class="text text-creamtext">Besøg vores butik til en familie oplevelse</h3>
                 </div>
             </div>
         </div>
         <div class="col-lg-6">
             <div class="container pb-5">
                 <img src="images/nicecream.png" alt="Avatar" class="image mt-5">
-                <div class="middle">
-                    <h3 class="text text-creamtext bg-danger">Se hvor chokoladen kommer fra</h3>
+                <div class="middle bg-danger link">
+                    <h3 class="text text-creamtext">Se hvor chokoladen kommer fra</h3>
                 </div>
             </div>
         </div>

@@ -12,16 +12,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Shop nu</a>
+                        <h4 class="nav-link" href="#">Shop nu</h4>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Vores Chokolade</a>
+                        <h4 class="nav-link" href="#">Vores Chokolade</h4>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Arrangementer</a>
+                        <h4 class="nav-link" href="#">Arrangementer</h4>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="contact.php">Kontakt</a>
+                        <h4 class="nav-link active" aria-current="page" href="contact.php">Kontakt</h4>
                     </li>
                 </ul>
                 <form class="d-flex" role="search">
