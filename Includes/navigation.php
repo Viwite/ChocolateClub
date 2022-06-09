@@ -18,7 +18,7 @@
                         <h4 class="nav-link" href="#">Vores Chokolade</h4>
                     </li>
                     <li class="nav-item">
-                        <h4 class="nav-link" href="#">Arrangementer</h4>
+                        <h4 class="nav-link" href="#">Om Os</h4>
                     </li>
                     <li class="nav-item">
                         <h4 class="nav-link active" aria-current="page" href="contact.php">Kontakt</h4>

@@ -4,7 +4,7 @@
         <div class="col-12 col-lg mb-5">
             <img src="images/chocolate_club-01.png" class="mx-auto mt-5" style="max-width: 50%" alt="logo">
         </div>
-        <div class="col-12 col-lg text-center mt-5 mb-5" style="color: red">
+        <div class="footer-text col-12 col-lg text-center mt-5 mb-5" style="color: red">
             <p>Shopping</p>
             <p>Gifts</p>
             <p>Events</p>
