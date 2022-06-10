@@ -40,7 +40,7 @@
             <img src="images/smagsprøver%20hellyeah.jpg" class="d-block w-100" alt="smagsprøver">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-danger">
-                    <h2>Byg selv indpakning</h2>
+                    <h3>Byg selv indpakning</h3>
                 </button>
             </div>
         </div>

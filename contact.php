@@ -16,12 +16,12 @@
 </head>
 <?php include "includes/navigation.php"; ?>
 
-<div class="card mb-3" style="max-width: 540px;">
-    <div class="row g-0">
+<div class="card mb-3" style="max-width: 100%;">
+    <div class="row g-0 justify-content-center">
         <div class="col-md-4">
-            <img src="images/chocolate_club-01.png" class="img-fluid rounded-start col-lg-3 f mb-3 ms-md-3" alt="Logo">
+            <img src="images/chocolate_club-01.png" class="img-fluid rounded-start col-lg mb-3 ms-md-3" alt="Logo">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8 bg-lilla">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
