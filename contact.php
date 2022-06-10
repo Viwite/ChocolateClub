@@ -19,7 +19,7 @@
 <div class="card mb-3" style="max-width: 100%;">
     <div class="row g-0">
         <div class="col-md-4">
-            <img src="images/fb%20chocolate%20v2%20ff.png"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
+            <img src="images/j"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
         </div>
         <div class="col-md-8 bg-lilla">
             <div class="card-body">
