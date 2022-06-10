@@ -17,15 +17,82 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="card mb-3" style="max-width: 100%;">
-    <div class="row g-0 justify-content-center">
+    <div class="row g-0">
         <div class="col-md-4">
-            <img src="images/chocolate_club-01.png" class="img-fluid rounded-start col-lg mb-3 ms-md-3" alt="Logo">
+            <img src="images/fb%20chocolate%20v2%20ff.png"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
         </div>
         <div class="col-md-8 bg-lilla">
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <h3 class="card-title">Kontakt os</h3>
+
+                <p class="card-text">
+                    Hvis du har spørgsmål om:
+                </p>
+
+                <p class="card-text">
+                    vores forretning
+                </p>
+
+                <p class="card-text">
+                    produkter
+                </p>
+
+                <p class="card-text">
+                    arrangementer
+                </p>
+
+                <p class="card-text">
+                    eller rekruttering
+                </p>
+
+                <br>
+
+                <p class="card-text">
+                    Almindelige spørgsmål findes i vores <a href="FAQ">FAQ</a>
+                </p>
+
+                <p class="card-text">
+                    Hvis du har et yderligere spørgsmål
+                </p>
+
+                <p>
+                    er du velkommen til at kontakte os
+                </p>
+
+                <p>
+                    på: <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
+                </p>
+
+                <br>
+                <br>
+
+                <h3 class="card-title">Administration</h3>
+
+                <p class="card-text">
+                    Gadevej 30 DK-2860, Bagsværd
+                </p>
+
+                <p class="card-text">
+                    Tel 33 44 88 11
+                </p>
+
+                <p class="card-text">
+                    CVR 10 10 16 28
+                </p>
+
+                <br>
+
+                <p class="card-text">
+                    Fakturering til Chocolate Club:
+                </p>
+
+                <p>
+                    <a href="Dksupplierinvoice@chocolateclub.se">Dksupplierinvoice@chocolateclub.se</a>
+                </p>
+
+                <p class="card-text pb-5">
+                    <a href="kontrolrapport">Kontrolrapport</a>
+                </p>
             </div>
         </div>
     </div>
