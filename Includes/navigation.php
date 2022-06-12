@@ -12,13 +12,13 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <h4 class="nav-link" href="#">Shop nu</h4>
+                        <h4 class="nav-link" href="BygSelv.php">Byg Selv</h4>
                     </li>
                     <li class="nav-item">
                         <h4 class="nav-link" href="voreschokolade.php">Vores Chokolade</h4>
                     </li>
                     <li class="nav-item">
-                        <h4 class="nav-link" href="#">Om Os</h4>
+                        <h4 class="nav-link" href="omos.php">Om Os</h4>
                     </li>
                     <li class="nav-item">
                         <h4 class="nav-link active" aria-current="page" href="contact.php">Kontakt</h4>
