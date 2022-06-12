@@ -27,7 +27,7 @@
             <img src="images/kaninmorreveonkel.png" class="d-block w-100" alt="chokolatiers">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-danger">
-                    <h3>Byg selv indpakning</h3>
+                    <h3>Byg selv</h3>
                 </button>
             </div>
         </div>
