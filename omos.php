@@ -20,13 +20,17 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="card mx-auto" style="max-width: 50%;">
-    <img src="images/chokofarm.png" class="card-img-top" alt="chokolade kort">
+    <img src="images/kaninmorreveonkel.png" class="card-img-top" alt="personalet">
     <div class="card-body">
-        <p class="card-text">Hos Chocolate Club går vi ind for at vores kunder ved, hvor chokoladen kommer fra.</p>
-        <p class="card-text">Derfor har vi et kort sat op i butikken, hvor man kan se de lande hvor chokolade frugten bliver høstet og hvordan kvaliteten af chokoladen er</p>
+        <p class="card-text">Inde i køkkenet hos Chocolate Club, står der tre passionerede chokolatiers, der brænder for chokolade</p>
         <br>
-        <p class="card-text">Vi går ikke på kompromis med kvaliteten og derfor bliver der hyppigt foretagte stikprøver på, hvordan arbejdsforholdet er på de forskellige plantager</p>
-        <p class="card-text">Derfor er Chocolate Club også en del af fairtrade, så du kan være forvisset om, at chokoladen kommer præcist, fra den bæredygtige plantage, der bliver angivet</p>
+        <p class="card-text">Ræveonkel Tobias Trads: der specialisere sig i sjove chokolader til børn og barnlige sjæle </p>
+        <br>
+        <p class="card-text">Kaninmor Amalie Mikkelsen: der laver eksklusiv chokolade til de mere kræsne</p>
+        <br>
+        <p class="card-text">Bamsefar Frederik Wolmer: Som har speciale i at lave chokolade til familiearrangementer</p>
+        <br>
+        <p class="card-text">Disse tre genier er gået sammen om at skabe en ekslusiv familie oplevelse, til dem der elsker chokolade</p>
     </div>
 </div>
 
