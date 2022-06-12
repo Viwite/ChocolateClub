@@ -1,35 +1,34 @@
-<!-- Instruktion til webbrowser om at vi kører HTML5 -->
 <!DOCTYPE html>
-
-<!-- html starter og slutter hele dokumentet / lang=da: Fortæller siden er på dansk -->
 <html lang="da">
-
-<!-- I <head> har man opsætning - det ser brugeren ikke, men det fortæller noget om siden -->
 <head>
-    <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
     <meta charset="utf-8">
 
-    <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Chocolate Club</title>
 
-    <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-    <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
 
-    <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
 <?php include "includes/navigation.php"; ?>
 
-
+<div class="card mx-auto" style="max-width: 60%;">
+    <img src="images/chokofarm.png" class="card-img-top" alt="chokolade kort">
+    <div class="card-body">
+        <p class="card-text">Hos Chocolate Club går vi ind for at vores kunder ved, hvor chokoladen kommer fra.</p>
+        <p class="card-text">Derfor har vi et kort sat op i butikken, hvor man kan se de lande hvor chokolade frugten bliver høstet og hvordan kvaliteten af chokoladen er</p>
+        <br>
+        <p class="card-text">Vi går ikke på kompromis med kvaliteten og derfor bliver der hyppigt foretagte stikprøver på, hvordan arbejdsforholdet er på de forskellige plantager</p>
+        <p class="card-text">Derfor er Chocolate Club også en del af fairtrade, så du kan være forvisset om, at chokoladen kommer præcist, fra den bæredygtige plantage, der bliver angivet</p>
+    </div>
+</div>
 
 <?php include "includes/footer.php"; ?>
 
