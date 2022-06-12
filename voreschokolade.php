@@ -19,7 +19,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="card mx-auto" style="max-width: 60%;">
+<div class="card mx-auto" style="max-width: 50%;">
     <img src="images/chokofarm.png" class="card-img-top" alt="chokolade kort">
     <div class="card-body">
         <p class="card-text">Hos Chocolate Club går vi ind for at vores kunder ved, hvor chokoladen kommer fra.</p>

@@ -104,7 +104,7 @@
             <div class="container pb-5">
                 <img src="images/chokofarm.png" alt="Avatar" class="image mt-5" style="width:100%">
                 <div class="middle bg-danger link">
-                    <h3 class="text text-creamtext">Besøg vores butik til en familie oplevelse</h3>
+                    <h3 class="text text-creamtext">Se hvor chokoladen kommer fra</h3>
                 </div>
             </div>
         </div>
@@ -112,7 +112,7 @@
             <div class="container pb-5">
                 <img src="images/nicecream.png" alt="Avatar" class="image mt-5">
                 <div class="middle bg-danger link">
-                    <h3 class="text text-creamtext">Se hvor chokoladen kommer fra</h3>
+                    <h3 class="text text-creamtext">Besøg vores butik til en familie oplevelse</h3>
                 </div>
             </div>
         </div>
