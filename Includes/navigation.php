@@ -15,7 +15,7 @@
                         <h4 class="nav-link" href="#">Shop nu</h4>
                     </li>
                     <li class="nav-item">
-                        <h4 class="nav-link" href="#">Vores Chokolade</h4>
+                        <h4 class="nav-link" href="voreschokolade.php">Vores Chokolade</h4>
                     </li>
                     <li class="nav-item">
                         <h4 class="nav-link" href="#">Om Os</h4>
