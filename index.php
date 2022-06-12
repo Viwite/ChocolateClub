@@ -16,6 +16,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
+
+<body>
+
 <?php include "includes/navigation.php"; ?>
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
@@ -118,8 +121,6 @@
 </div>
 
 <?php include "includes/footer.php"; ?>
-<body>
-
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>

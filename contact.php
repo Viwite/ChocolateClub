@@ -14,12 +14,15 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+
+<body>
+
 <?php include "includes/navigation.php"; ?>
 
 <div class="card mb-3" style="max-width: 100%;">
     <div class="row g-0">
-        <div class="col-md-4">
-            <img src="images/j"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
+        <div class="col-md-4 mt-5 mb-5">
+            <img src="images/jordbær.png"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
         </div>
         <div class="col-md-8 bg-lilla">
             <div class="card-body">
@@ -99,9 +102,6 @@
 </div>
 
 <?php include "includes/footer.php"; ?>
-<body>
-
-
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
