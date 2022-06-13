@@ -60,7 +60,7 @@
 
 <div class="container-fluid bg-lavendel">
 
-    <h1 class="text-1" style="text-align: center; color: red; font-family: 'Arial Rounded MT Bold, sans serif">New</h1>
+    <h1 class="text-1" style="text-align: center; color: red; font-family: Arial Rounded MT Bold, sans serif">New</h1>
     <div class="row">
         <div class="col-12 col-lg">
             <div class="">
