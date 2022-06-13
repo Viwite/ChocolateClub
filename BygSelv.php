@@ -19,7 +19,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<h1 class="text-1" style="text-align: center; color: red; font-family: 'Arial Rounded MT Bold, sans serif">Byg Selv</h1>
+<h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: red;">Byg Selv</h1>
 <div class="row" style="max-width: 100%">
     <div class="col-12 col-lg-4">
         <div class="small">
