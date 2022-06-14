@@ -20,7 +20,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: red;">Byg Selv</h1>
-<div class="row" style="max-width: 100%">
+<section class="row" style="max-width: 100%">
     <div class="col-12 col-lg-4">
         <div class="small">
             <img src="images/chokoglass.png" class="small-image mx-auto my-5" alt="chokolade i glas">
@@ -52,7 +52,7 @@
             <img src="images/chokosalg2%20v2.png" class="small-image mx-auto my-5" alt="chokolade salg">
         </div>
     </div>
-</div>
+</>
 
 <?php include "includes/footer.php"; ?>
 

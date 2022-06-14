@@ -21,12 +21,12 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+<main id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">
             <img src="images/kaninmorreveonkel.png" class="d-block w-100" alt="chokolatiers">
             <div class="carousel-caption d-block">
-                <button type="button" class="btn btn-danger">
+                <button type="button" class="btn btn-cremehvid">
                     <h3>Bestil</h3>
                 </button>
             </div>
@@ -34,16 +34,16 @@
         <div class="carousel-item" data-bs-interval="2000">
             <img src="images/væg.jpg" class="d-block w-100" alt="interiør">
             <div class="carousel-caption d-block">
-                <button type="button" class="btn btn-danger">
-                    <h3>Bestil</h3>
+                <button type="button" class="btn btn-cremehvid">
+                    <h3 class="btn-text text-bruntext">Bestil</h3>
                 </button>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="images/smagsprøver%20hellyeah.jpg" class="d                                   -block w-100" alt="smagsprøver">
+            <img src="images/smagsprøver%20hellyeah.jpg" class="d-block w-100" alt="smagsprøver">
             <div class="carousel-caption d-block">
-                <button type="button" class="btn btn-danger">
-                    <h3>Bestil</h3>
+                <button type="button" class="btn btn-cremehvid">
+                    <h3 class="btn-text text-bruntext">Bestil</h3>
                 </button>
             </div>
         </div>
@@ -56,9 +56,9 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
     </button>
-</div>
+</main>
 
-<div class="container-fluid bg-lime">
+<section class="container-fluid bg-lime">
 
     <h1 class="text-1" style="text-align: center; color: #452f1f; font-family: Arial Rounded MT Bold, sans serif">New</h1>
     <div class="row">
@@ -94,10 +94,10 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 
 
-<div class="container-fluid bg-grøn">
+<section class="container-fluid bg-grøn">
 
     <div class="row">
         <div class="col-lg-6">
@@ -118,7 +118,7 @@
         </div>
     </div>
 
-</div>
+</section>
 
 <?php include "includes/footer.php"; ?>
 

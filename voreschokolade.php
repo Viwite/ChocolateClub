@@ -19,7 +19,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="card mx-auto" style="max-width: 50%;">
+<section class="card mx-auto" style="max-width: 50%;">
     <img src="images/chokofarm.png" class="card-img-top" alt="chokolade kort">
     <div class="card-body">
         <p class="card-text">Hos Chocolate Club går vi ind for at vores kunder ved, hvor chokoladen kommer fra.</p>
@@ -28,7 +28,7 @@
         <p class="card-text">Vi går ikke på kompromis med kvaliteten og derfor bliver der hyppigt foretagte stikprøver på, hvordan arbejdsforholdet er på de forskellige plantager</p>
         <p class="card-text">Derfor er Chocolate Club også en del af fairtrade, så du kan være forvisset om, at chokoladen kommer præcist, fra den bæredygtige plantage, der bliver angivet</p>
     </div>
-</div>
+</section>
 
 <?php include "includes/footer.php"; ?>
 

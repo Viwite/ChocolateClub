@@ -19,7 +19,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="card mx-auto" style="max-width: 50%;">
+<section class="card mx-auto" style="max-width: 50%;">
     <img src="images/kaninmorreveonkel.png" class="card-img-top" alt="personalet">
     <div class="card-body">
         <p class="card-text">Inde i køkkenet hos Chocolate Club, står der tre passionerede chokolatiers, der brænder for chokolade</p>
@@ -32,7 +32,7 @@
         <br>
         <p class="card-text">Disse tre genier er gået sammen om at skabe en ekslusiv familie oplevelse, til dem der elsker chokolade</p>
     </div>
-</div>
+</section>
 
 <?php include "includes/footer.php"; ?>
 
