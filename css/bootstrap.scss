@@ -12,6 +12,11 @@ $custom-colors: (
   "lilla": #be87bc,
   "creamtext": #fcf0c4,
   "topbundfarve": #fcdfdf,
+  "hvid": #fff6f4,
+  "bruntext": #462f20,
+  "lime": #eeea7c,
+  "grå": #d8cfc4,
+  "grøn": #94c9bc,
 
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
