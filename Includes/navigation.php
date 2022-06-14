@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg">
 
     <div class="container-fluid">
-        <div class="logo navbar-brand"><a href="index.php"><img src="images/chocolate_club-01.png" style="max-width: 15%;"
+        <div class="logo navbar-brand"><a href="index.php"><img src="images/" style="max-width: 15%;"
                                                    alt="logo foto"></a></div>
         <div style="width: 88%; margin-left: auto; text-align: right">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
