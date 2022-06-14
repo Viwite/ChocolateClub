@@ -40,7 +40,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="images/smagsprøver%20hellyeah.jpg" class="d-block w-100" alt="smagsprøver">
+            <img src="images/smagsprøver%20hellyeah.jpg" class="d                                   -block w-100" alt="smagsprøver">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-danger">
                     <h3>Bestil</h3>
@@ -58,9 +58,9 @@
     </button>
 </div>
 
-<div class="container-fluid bg-lavendel">
+<div class="container-fluid bg-lime">
 
-    <h1 class="text-1" style="text-align: center; color: red; font-family: Arial Rounded MT Bold, sans serif">New</h1>
+    <h1 class="text-1" style="text-align: center; color: #452f1f; font-family: Arial Rounded MT Bold, sans serif">New</h1>
     <div class="row">
         <div class="col-12 col-lg">
             <div class="">
@@ -97,22 +97,22 @@
 </div>
 
 
-<div class="container-fluid bg-lilla">
+<div class="container-fluid bg-grøn">
 
     <div class="row">
         <div class="col-lg-6">
             <div class="container pb-5">
                 <img src="images/chokofarm.png" alt="Avatar" class="image mt-5" style="width:100%">
-                <div class="middle bg-danger link">
-                    <h3 class="text text-creamtext">Se hvor chokoladen kommer fra</h3>
+                <div class="middle bg-cremehvid link">
+                    <h3 class="text text-bruntext">Se hvor chokoladen kommer fra</h3>
                 </div>
             </div>
         </div>
         <div class="col-lg-6">
             <div class="container pb-5">
                 <img src="images/nicecream.png" alt="Avatar" class="image mt-5">
-                <div class="middle bg-danger link">
-                    <h3 class="text text-creamtext">Besøg vores butik til en familie oplevelse</h3>
+                <div class="middle bg-cremehvid link">
+                    <h3 class="text text-bruntext">Besøg vores butik til en familie oplevelse</h3>
                 </div>
             </div>
         </div>

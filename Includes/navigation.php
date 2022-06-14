@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar navbar-expand-lg bg-cremehvid">
 
     <div class="container-fluid">
         <div class="navbar-brand"><a href="index.php"><img src="images/logo2.png" style="max-width: 15%;"
