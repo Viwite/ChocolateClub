@@ -1,9 +1,7 @@
 <nav class="navbar navbar-expand-lg">
-
     <div class="container-fluid">
-        <div class="logo navbar-brand"><a href="index.php"><img src="images/" style="max-width: 15%;"
-                                                   alt="logo foto"></a></div>
-        <div style="width: 88%; margin-left: auto; text-align: right">
+        <div class="navbar-brand"><a href="index.php"><img src="images/logo2.png" style="max-width: 15%;"
+                                                           alt="logo foto"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
