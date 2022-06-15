@@ -17,16 +17,16 @@
                                                  alt="logo foto"></a>
                     </li>
                     <li class="nav-item">
-                        <a href="BygSelv.php"><h4 class="nav-link">Byg Selv</h4></a>
+                        <a href="BygSelv.php"><h4 class="nav-link" style="color: #462f20">Byg Selv</h4></a>
                     </li>
                     <li class="nav-item">
-                        <a href="voreschokolade.php"><h4 class="nav-link">Vores Chokolade</h4></a>
+                        <a href="voreschokolade.php"><h4 class="nav-link" style="color: #462f20">Vores Chokolade</h4></a>
                     </li>
                     <li class="nav-item">
-                        <a href="omos.php"><h4 class="nav-link">Om Os</h4></a>
+                        <a href="omos.php"><h4 class="nav-link" style="color: #462f20">Om Os</h4></a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.php"><h4 class="nav-link">Kontakt</h4></a>
+                        <a href="contact.php"><h4 class="nav-link" style="color: #462f20">Kontakt</h4></a>
                     </li>
                 </ul>
                 <form class="d-flex" role="search">
