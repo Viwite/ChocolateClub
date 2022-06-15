@@ -24,7 +24,7 @@
         <div class="col-md-4 mt-5 mb-5">
             <img src="images/jordbær.png"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
         </div>
-        <div class="col-md-8 bg-lilla">
+        <div class="col-md-8 bg-grøn">
             <div class="card-body">
                 <h3 class="card-title">Kontakt os</h3>
 

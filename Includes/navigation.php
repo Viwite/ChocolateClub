@@ -16,14 +16,14 @@
                         <a href="index.php"><img src="images/logo2.png"
                                                  alt="logo foto"></a>
                     </li>
-                    <li class="nav-item"">
+                    <li class="nav-item">
                         <a href="BygSelv.php"><h4 class="nav-link">Byg Selv</h4></a>
                     </li>
                     <li class="nav-item">
                         <a href="voreschokolade.php"><h4 class="nav-link">Vores Chokolade</h4></a>
                     </li>
                     <li class="nav-item">
-                        <a href="omos.php"><h4 class="nav-link">Om Os</h4><a/>
+                        <a href="omos.php"><h4 class="nav-link">Om Os</h4></a>
                     </li>
                     <li class="nav-item">
                         <a href="contact.php"><h4 class="nav-link">Kontakt</h4></a>
