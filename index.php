@@ -28,23 +28,23 @@
             <img src="images/kaninmorreveonkel.png" class="d-block w-100" alt="chokolatiers">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
-                    <h3>Bestil</h3>
+                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext">Bestil</h3></a>
                 </button>
             </div>
         </div>
         <div class="carousel-item" data-bs-interval="2000">
-            <img src="images/væg.jpg" class="d-block w-100" alt="interiør">
+            <img src="images/væg1.png" class="d-block w-100" alt="interiør">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
-                    <h3 class="btn-text text-bruntext">Bestil</h3>
+                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext">Bestil</h3></a>
                 </button>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="images/smagsprøver%20hellyeah.jpg" class="d-block w-100" alt="smagsprøver">
+            <img src="images/smagsproeververhellyeah.png" class="d-block w-100" alt="smagsprøver">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
-                    <h3 class="btn-text text-bruntext">Bestil</h3>
+                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext">Bestil</h3></a>
                 </button>
             </div>
         </div>
