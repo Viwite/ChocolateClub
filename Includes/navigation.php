@@ -1,7 +1,10 @@
 <nav class="navbar navbar-expand-lg bg-cremehvid">
     <div class="container-fluid">
-        <div class="navbar-brand"><a href="index.php"><img src="images/logo2.png" style="max-width: 15%;"
+        <div class="navbar-brand d-flex justify-content-between w-100"><a href="index.php">
+
+                <img src="images/logo2.png" class="d-lg-none" style="max-width: 150px;"
                                                            alt="logo foto"></a>
+
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -9,17 +12,21 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <h4 class="nav-link" href="BygSelv.php">Byg Selv</h4>
+                    <li class="nav-item d-none d-lg-block" style="max-width: 150px;">
+                        <a href="index.php"><img src="images/logo2.png"
+                                                 alt="logo foto"></a>
+                    </li>
+                    <li class="nav-item"">
+                        <a href="BygSelv.php"><h4 class="nav-link">Byg Selv</h4></a>
                     </li>
                     <li class="nav-item">
-                        <h4 class="nav-link" href="voreschokolade.php">Vores Chokolade</h4>
+                        <a href="voreschokolade.php"><h4 class="nav-link">Vores Chokolade</h4></a>
                     </li>
                     <li class="nav-item">
-                        <h4 class="nav-link" href="omos.php">Om Os</h4>
+                        <a href="omos.php"><h4 class="nav-link">Om Os</h4><a/>
                     </li>
                     <li class="nav-item">
-                        <h4 class="nav-link active" aria-current="page" href="contact.php">Kontakt</h4>
+                        <a href="contact.php"><h4 class="nav-link">Kontakt</h4></a>
                     </li>
                 </ul>
                 <form class="d-flex" role="search">
