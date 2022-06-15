@@ -58,11 +58,11 @@
                     Hvis du har et yderligere spørgsmål
                 </p>
 
-                <p>
+                <p class="card-text">
                     er du velkommen til at kontakte os
                 </p>
 
-                <p>
+                <p class="card-text">
                     på: <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
                 </p>
 
@@ -89,7 +89,7 @@
                     Fakturering til Chocolate Club:
                 </p>
 
-                <p>
+                <p class="card-text">
                     <a href="Dksupplierinvoice@chocolateclub.se">Dksupplierinvoice@chocolateclub.se</a>
                 </p>
 
