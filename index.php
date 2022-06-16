@@ -28,7 +28,7 @@
             <img src="images/kaninmorreveonkel.png" class="d-block w-100" alt="chokolatiers">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
-                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Bestil</h3></a>
+                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Click n' Collect</h3></a>
                 </button>
             </div>
         </div>
@@ -36,7 +36,7 @@
             <img src="images/veg.png" class="d-block w-100" alt="veg">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
-                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Bestil</h3></a>
+                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Click n' Collect</h3></a>
                 </button>
             </div>
         </div>
@@ -44,7 +44,7 @@
             <img src="images/smagsproever.png" class="d-block w-100" alt="smagsproever">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
-                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Bestil</h3></a>
+                    <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Click n' Collect</h3></a>
                 </button>
             </div>
         </div>
