@@ -38,9 +38,7 @@
         <div class="carousel-item">
             <img src="images/smagsproever.png" class="d-block w-100" alt="smagsproever">
             <div class="carousel-caption d-block">
-                <button type="button" class="btn btn-cremehvid" role="button">
                     <a class="btn btn-cremehvid" href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Click n' Collect</h3></a>
-                </button>
             </div>
         </div>
     </div>
