@@ -62,20 +62,20 @@
 <section class="container-fluid bg-lime">
 
     <h1 class="text-1" style="text-align: center; color: #452f1f; font-family: Arial Rounded MT, sans serif">New</h1>
-    <div class="row" style="max-width: 50%; text-align: center;">
+    <div class="row" style="justify-content: space-evenly;">
         <div class="col-12 col-lg">
             <div class="">
-                <img src="images/bamse_forside.png" class="small-image mx-auto my-5" alt="chokolade emballage bamse">
+                <img src="images/bamse_forside.png" style="max-width: 20%;" class="small-image mx-auto my-5" alt="chokolade emballage bamse">
             </div>
         </div>
         <div class="col-12 col-lg">
             <div class="">
-                <img src="images/rv_forside.png" class="small-image mx-auto my-5" alt="chokolade emballage ræv">
+                <img src="images/rv_forside.png" style="max-width: 20%;" class="small-image mx-auto my-5" alt="chokolade emballage ræv">
             </div>
         </div>
         <div class="col-12 col-lg">
             <div class="">
-                <img src="images/kanin_forside.png" class="small-image mx-auto my-5" alt="chokolade emballage kanin">
+                <img src="images/kanin_forside.png" style="max-width: 20%;" class="small-image mx-auto my-5" alt="chokolade emballage kanin">
             </div>
         </div>
     </div>

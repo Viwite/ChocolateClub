@@ -23,32 +23,32 @@
 <section class="row" style="max-width: 100%">
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/bamse_forside.png" class="small-image mx-auto my-5" alt="chokolade bamses mørke knas">
+            <img src="images/bamse_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade bamses mørke knas">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/kanin_forside.png" class="small-image mx-auto my-5" alt="chokolade kaninmors jordbær drøm">
+            <img src="images/kanin_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade kaninmors jordbær drøm">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/rv_forside.png" class="small-image mx-auto my-5" alt="chokolade kugler">
+            <img src="images/rv_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade kugler">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/bamse_marzi.png" class="small-image mx-auto my-5" alt="chokolade bamses mørke marzi">
+            <img src="images/bamse_marzi.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade bamses mørke marzi">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/kanin_lakrids.png" class="small-image mx-auto my-5" alt="chokolade kanin lakrids">
+            <img src="images/kanin_lakrids.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade kanin lakrids">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small ">
-            <img src="images/rv_appelsin.png" class="small-image mx-auto my-5" alt="ræve appelsin knas">
+            <img src="images/rv_appelsin.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="ræve appelsin knas">
         </div>
     </div>
 </>
