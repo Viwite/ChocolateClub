@@ -20,6 +20,8 @@
 
 <body>
 
+<?php include "includes/navigation.php"; ?>
+
 <main id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">
