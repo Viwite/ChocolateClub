@@ -22,6 +22,7 @@
 <section class="container-fluid bg-bruntext">
 
     <h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: #fff6f4;">Click n' Collect</h1>
+    <h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: #fff6f4;">Book her</h1>
     <div class="row" style="max-width: 100%">
         <div class="col-12 col-lg-4">
             <div class="small">
