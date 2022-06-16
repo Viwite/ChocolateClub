@@ -19,10 +19,11 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="container-fluid bg-bruntext">
+<section class="container-fluid bg-bruntext">
+
     <h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: #462f20;">Vælg
         Selv</h1>
-    <section class="row" style="max-width: 100%">
+    <div class="row" style="max-width: 100%">
         <div class="col-12 col-lg-4">
             <div class="small">
                 <img src="images/bamse_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5"
@@ -59,8 +60,9 @@
                      alt="ræve appelsin knas">
             </div>
         </div>
-    </section>
-</div>
+    </div>
+
+</section>
 
 <?php include "includes/footer.php"; ?>
 
