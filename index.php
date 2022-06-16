@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="carousel-item" data-bs-interval="2000">
-            <img src="images/væg1.png" class="d-block w-100" alt="interiør">
+            <img src="images/veg.png" class="d-block w-100" alt="veg">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
                     <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Bestil</h3></a>
@@ -41,7 +41,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="images/smagsproeververhellyeah.png" class="d-block w-100" alt="smagsprøver">
+            <img src="images/smagsproever.png" class="d-block w-100" alt="smagsproever">
             <div class="carousel-caption d-block">
                 <button type="button" class="btn btn-cremehvid">
                     <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Bestil</h3></a>
