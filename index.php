@@ -62,7 +62,7 @@
 <section class="container-fluid bg-lime">
 
     <h1 class="text-1" style="text-align: center; color: #452f1f; font-family: Arial Rounded MT, sans serif">New</h1>
-    <div class="row" style="justify-content: space-evenly;">
+    <div class="row">
         <div class="col-12 col-lg">
             <div class="">
                 <img src="images/bamse_forside.png" style="max-width: 20%;" class="small-image mx-auto my-5" alt="chokolade emballage bamse">
