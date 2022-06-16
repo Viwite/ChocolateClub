@@ -62,36 +62,20 @@
 <section class="container-fluid bg-lime">
 
     <h1 class="text-1" style="text-align: center; color: #452f1f; font-family: Arial Rounded MT, sans serif">New</h1>
-    <div class="row">
+    <div class="row" style="max-width: 50%; text-align: center;">
         <div class="col-12 col-lg">
             <div class="">
-                <img src="images/chokoglass.png" class="small-image mx-auto my-5" alt="chokolade i glas">
+                <img src="images/bamse_forside.png" class="small-image mx-auto my-5" alt="chokolade emballage bamse">
             </div>
         </div>
         <div class="col-12 col-lg">
             <div class="">
-                <img src="images/chokobidder.png" class="small-image mx-auto my-5" alt="chokolade bidder">
+                <img src="images/rv_forside.png" class="small-image mx-auto my-5" alt="chokolade emballage ræv">
             </div>
         </div>
         <div class="col-12 col-lg">
             <div class="">
-                <img src="images/choko%20balls.png" class="small-image mx-auto my-5" alt="chokolade kugler">
-            </div>
-        </div>
-        <div class="col-12 col-lg">
-            <div class="">
-                <img src="images/chokofirkant.png" class="small-image mx-auto my-5" alt="chokolade i firkantet æske">
-            </div>
-        </div>
-        <div class="col-12 col-lg">
-            <div class="">
-                <img src="images/chokofirkantkannoet.png" class="small-image mx-auto my-5" alt=" en til chokolade i
-                firkantet æske">
-            </div>
-        </div>
-        <div class="col-12 col-lg">
-            <div class="">
-                <img src="images/chokosalg2%20v2.png" class="small-image mx-auto my-5" alt="chokolade salg">
+                <img src="images/kanin_forside.png" class="small-image mx-auto my-5" alt="chokolade emballage kanin">
             </div>
         </div>
     </div>

@@ -17,7 +17,7 @@
                                                  alt="logo foto"></a>
                     </li>
                     <li class="nav-item">
-                        <a href="BygSelv.php"><h4 class="nav-link" style="color: #462f20">Byg Selv</h4></a>
+                        <a href="BygSelv.php"><h4 class="nav-link" style="color: #462f20">Vælg Selv</h4></a>
                     </li>
                     <li class="nav-item">
                         <a href="voreschokolade.php"><h4 class="nav-link" style="color: #462f20">Vores Chokolade</h4></a>

@@ -19,37 +19,36 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: #462f20;">Byg Selv</h1>
+<h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: #462f20;">Vælg Selv</h1>
 <section class="row" style="max-width: 100%">
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/chokoglass.png" class="small-image mx-auto my-5" alt="chokolade i glas">
+            <img src="images/bamse_forside.png" class="small-image mx-auto my-5" alt="chokolade bamses mørke knas">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/chokobidder.png" class="small-image mx-auto my-5" alt="chokolade bidder">
+            <img src="images/kanin_forside.png" class="small-image mx-auto my-5" alt="chokolade kaninmors jordbær drøm">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/choko%20balls.png" class="small-image mx-auto my-5" alt="chokolade kugler">
+            <img src="images/rv_forside.png" class="small-image mx-auto my-5" alt="chokolade kugler">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/chokofirkant.png" class="small-image mx-auto my-5" alt="chokolade i firkantet æske">
+            <img src="images/bamse_marzi.png" class="small-image mx-auto my-5" alt="chokolade bamses mørke marzi">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small">
-            <img src="images/chokofirkantkannoet.png" class="small-image mx-auto my-5" alt=" en til chokolade i
-                firkantet æske">
+            <img src="images/kanin_lakrids.png" class="small-image mx-auto my-5" alt="chokolade kanin lakrids">
         </div>
     </div>
     <div class="col-12 col-lg-4">
         <div class="small ">
-            <img src="images/chokosalg2%20v2.png" class="small-image mx-auto my-5" alt="chokolade salg">
+            <img src="images/rv_appelsin.png" class="small-image mx-auto my-5" alt="ræve appelsin knas">
         </div>
     </div>
 </>
