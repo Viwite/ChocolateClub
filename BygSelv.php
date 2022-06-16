@@ -19,39 +19,48 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: #462f20;">Vælg Selv</h1>
-<section class="row" style="max-width: 100%">
-    <div class="col-12 col-lg-4">
-        <div class="small">
-            <img src="images/bamse_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade bamses mørke knas">
+<div class="container-fluid bg-bruntext">
+    <h1 class="text-1" style="text-align: center; font-family: Arial Rounded MT, sans-serif; color: #462f20;">Vælg
+        Selv</h1>
+    <section class="row" style="max-width: 100%">
+        <div class="col-12 col-lg-4">
+            <div class="small">
+                <img src="images/bamse_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5"
+                     alt="chokolade bamses mørke knas">
+            </div>
         </div>
-    </div>
-    <div class="col-12 col-lg-4">
-        <div class="small">
-            <img src="images/kanin_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade kaninmors jordbær drøm">
+        <div class="col-12 col-lg-4">
+            <div class="small">
+                <img src="images/kanin_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5"
+                     alt="chokolade kaninmors jordbær drøm">
+            </div>
         </div>
-    </div>
-    <div class="col-12 col-lg-4">
-        <div class="small">
-            <img src="images/rv_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade kugler">
+        <div class="col-12 col-lg-4">
+            <div class="small">
+                <img src="images/rv_forside.png" style="max-width: 30%;" class="small-image mx-auto my-5"
+                     alt="chokolade kugler">
+            </div>
         </div>
-    </div>
-    <div class="col-12 col-lg-4">
-        <div class="small">
-            <img src="images/bamse_marzi.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade bamses mørke marzi">
+        <div class="col-12 col-lg-4">
+            <div class="small">
+                <img src="images/bamse_marzi.png" style="max-width: 30%;" class="small-image mx-auto my-5"
+                     alt="chokolade bamses mørke marzi">
+            </div>
         </div>
-    </div>
-    <div class="col-12 col-lg-4">
-        <div class="small">
-            <img src="images/kanin_lakrids.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="chokolade kanin lakrids">
+        <div class="col-12 col-lg-4">
+            <div class="small">
+                <img src="images/kanin_lakrids.png" style="max-width: 30%;" class="small-image mx-auto my-5"
+                     alt="chokolade kanin lakrids">
+            </div>
         </div>
-    </div>
-    <div class="col-12 col-lg-4">
-        <div class="small ">
-            <img src="images/rv_appelsin.png" style="max-width: 30%;" class="small-image mx-auto my-5" alt="ræve appelsin knas">
+        <div class="col-12 col-lg-4">
+            <div class="small ">
+                <img src="images/rv_appelsin.png" style="max-width: 30%;" class="small-image mx-auto my-5"
+                     alt="ræve appelsin knas">
+            </div>
         </div>
-    </div>
-</>
+    </section>
+</div>
 
 <?php include "includes/footer.php"; ?>
 
