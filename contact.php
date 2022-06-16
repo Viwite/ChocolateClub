@@ -19,7 +19,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<section class="card mb-3" style="max-width: 100%;">
+<section class="card" style="max-width: 100%;">
     <div class="row g-0">
         <div class="col-md-4 mt-5 mb-5">
             <img src="images/jordbær.png"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
