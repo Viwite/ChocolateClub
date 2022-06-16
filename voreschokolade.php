@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Chocolate Club/Om Os</title>
+    <title>Chocolate Club</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
