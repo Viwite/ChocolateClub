@@ -27,72 +27,53 @@
         <div class="col-md-8 bg-grøn">
             <div class="card-body">
                 <h3 class="card-title">Kontakt os</h3>
-
                 <p class="card-text">
                     Hvis du har spørgsmål om:
                 </p>
-
                 <p class="card-text">
                     vores forretning
                 </p>
-
                 <p class="card-text">
                     produkter
                 </p>
-
                 <p class="card-text">
                     arrangementer
                 </p>
-
                 <p class="card-text">
                     eller rekruttering
                 </p>
-
                 <br>
-
                 <p class="card-text">
                     Almindelige spørgsmål findes i vores <a href="FAQ">FAQ</a>
                 </p>
-
                 <p class="card-text">
                     Hvis du har et yderligere spørgsmål
                 </p>
-
                 <p class="card-text">
                     er du velkommen til at kontakte os
                 </p>
-
                 <p class="card-text">
                     på: <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
                 </p>
-
                 <br>
                 <br>
-
                 <h3 class="card-title">Administration</h3>
-
                 <p class="card-text">
                     Gadevej 30 DK-2860, Bagsværd
                 </p>
-
                 <p class="card-text">
                     Tel 33 44 88 11
                 </p>
-
                 <p class="card-text">
                     CVR 10 10 16 28
                 </p>
-
                 <br>
-
                 <p class="card-text">
                     Fakturering til Chocolate Club:
                 </p>
-
                 <p class="card-text">
                     <a href="Dksupplierinvoice@chocolateclub.se">Dksupplierinvoice@chocolateclub.se</a>
                 </p>
-
                 <p class="card-text pb-5">
                     <a href="kontrolrapport">Kontrolrapport</a>
                 </p>
