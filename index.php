@@ -26,7 +26,7 @@
         <div class="carousel-item active" data-bs-interval="10000">
             <img src="images/kaninmorreveonkel.png" class="d-block w-100" alt="chokolatiers">
             <div class="carousel-caption d-block">
-                <button type="button" class="btn btn-cremehvid">
+                <button type="button" class="btn btn-cremehvid" role="button">
                     <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Click n' Collect</h3></a>
                 </button>
             </div>
@@ -34,7 +34,7 @@
         <div class="carousel-item" data-bs-interval="2000">
             <img src="images/veg.png" class="d-block w-100" alt="veg">
             <div class="carousel-caption d-block">
-                <button type="button" class="btn btn-cremehvid">
+                <button type="button" class="btn btn-cremehvid" role="button">
                     <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Click n' Collect</h3></a>
                 </button>
             </div>
@@ -42,7 +42,7 @@
         <div class="carousel-item">
             <img src="images/smagsproever.png" class="d-block w-100" alt="smagsproever">
             <div class="carousel-caption d-block">
-                <button type="button" class="btn btn-cremehvid">
+                <button type="button" class="btn btn-cremehvid" role="button">
                     <a href="BygSelv.php"><h3 class="btn-text text-bruntext text-decoration-none">Click n' Collect</h3></a>
                 </button>
             </div>
