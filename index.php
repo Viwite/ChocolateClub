@@ -5,7 +5,6 @@
 
     <title>Chocolate Club</title>
 
-    <meta name=”description" content=”Chokolade, salg">
     <meta name="robots" content="noindex, nofollow, all">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
