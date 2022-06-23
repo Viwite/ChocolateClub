@@ -53,7 +53,7 @@
                     er du velkommen til at kontakte os
                 </p>
                 <p class="card-text">
-                    på: <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
+                    på: <a href="Info_dk@Chocolateclub.com">Info_dk@Chocolateclub.com</a>
                 </p>
                 <br>
                 <br>
